@@ -56,7 +56,7 @@ The application uses a `config.json` file to store:
 - API key (keep this secure!)
 - Custom prompt for AI analysis
 
-Default prompt focuses on geometric analysis and descriptive naming suitable for adult content organization.
+Default prompt focuses on geometric analysis and descriptive naming.
 
 ## 🛠️ Technical Details
 
@@ -83,4 +83,4 @@ This project is open source. Please check the license file for details.
 
 ## ⚠️ Disclaimer
 
-This tool is designed for personal use in organizing image collections, including adult and explicit content. Ensure compliance with API terms of service, xAI usage policies, and local regulations regarding AI usage and content analysis. Use responsibly and ethically.
+This tool is designed for personal use in organizing image collections. Ensure compliance with API terms of service, xAI usage policies, and local regulations regarding AI usage and content analysis. Use responsibly and ethically.
